@@ -16,6 +16,6 @@ public class WebController {
 		
 		System.out.println("Hello, World!");
 		
-		return "hello1";
+		return 5;//"hello1";
 	}
 }
